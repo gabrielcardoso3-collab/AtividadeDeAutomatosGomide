@@ -1,0 +1,413 @@
+<div class="row gx-3" id="palestrantes-container">
+    
+        <div class="col-12 col-lg-3 gy-3 palestrante-item" id="Palestrante1" style="display: block;">
+            <a data-target="#modal1" data-toggle="modal" id="MainNavHelp" href="#modal1">
+                <div class="card">
+                    <div style="width: 100%; height: 75px;"></div>
+                    <div class="card-body text-center">
+                        <img src="/media/static/palestrantes/Bia_YVs6RP1.png" alt="Palestrante" class="img-fluid">
+                        <p class="card-text" style="color: black;">Ma. Bia Kalunga</p>
+                    </div>
+                </div>
+            </a>
+        </div>
+
+        <div class="modal fade" id="modal1">
+            <div class="modal-dialog modal-lg modal-dialog-centered" role="document">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <div claas="modal-title">
+                            <h4>Bia Kalunga</h4>
+                            <br>
+                            <h6>Administradora do Museu Iaiá Procópia, guardiã dos saberes e fazeres Kalunga</h6>
+                        </div>
+                        <button type="button" class="btn-close" data-dismiss="modal" aria-label="Close">
+                        </button>
+                    </div>
+                    <div class="modal-body">
+                        
+                            
+                                <p>Biografia de Bia Kalunga, com "aspas" e link https://exemplo.com/x.
+
+Segundo parágrafo da biografia.</p>
+                            
+                            
+                                <p>bia_Kii@hotmail.com</p>
+                            
+                            
+                                <p><a href="http://lattes.cnpq.br/123">http://lattes.cnpq.br/123</a></p>
+                        
+                    </div>
+                    <div class="modal-footer">
+                        <button type="button" class="main-button mx-auto" data-dismiss="modal">Fechar
+                        </button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    
+        <div class="col-12 col-lg-3 gy-3 palestrante-item" id="Palestrante2" style="display: block;">
+            <a data-target="#modal2" data-toggle="modal" id="MainNavHelp" href="#modal2">
+                <div class="card">
+                    <div style="width: 100%; height: 75px;"></div>
+                    <div class="card-body text-center">
+                        <img src="/media/static/palestrantes/Celuta.png" alt="Palestrante" class="img-fluid">
+                        <p class="card-text" style="color: black;">Ma. Celuta Moreira</p>
+                    </div>
+                </div>
+            </a>
+        </div>
+
+        <div class="modal fade" id="modal2">
+            <div class="modal-dialog modal-lg modal-dialog-centered" role="document">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <div claas="modal-title">
+                            <h4>Celuta Santos Rosa Moreira</h4>
+                            <br>
+                            <h6>Diretora das Escolas Quilombolas</h6>
+                        </div>
+                        <button type="button" class="btn-close" data-dismiss="modal" aria-label="Close">
+                        </button>
+                    </div>
+                    <div class="modal-body">
+                        
+                            
+                                <p>Biografia de Celuta Santos Rosa Moreira, com "aspas" e link https://exemplo.com/x.
+
+Segundo parágrafo da biografia.</p>
+                            
+                            
+                                <p>celutasantosledoc28@gmail.com</p>
+                            
+                        
+                    </div>
+                    <div class="modal-footer">
+                        <button type="button" class="main-button mx-auto" data-dismiss="modal">Fechar
+                        </button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    
+        <div class="col-12 col-lg-3 gy-3 palestrante-item" id="Palestrante3" style="display: block;">
+            <a data-target="#modal3" data-toggle="modal" id="MainNavHelp" href="#modal3">
+                <div class="card">
+                    <div style="width: 100%; height: 75px;"></div>
+                    <div class="card-body text-center">
+                        <img src="/media/static/palestrantes/foto_Daniela.png" alt="Palestrante" class="img-fluid">
+                        <p class="card-text" style="color: black;">Dra. Daniela Silva</p>
+                    </div>
+                </div>
+            </a>
+        </div>
+
+        <div class="modal fade" id="modal3">
+            <div class="modal-dialog modal-lg modal-dialog-centered" role="document">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <div claas="modal-title">
+                            <h4>Daniela de Melo e Silva</h4>
+                            <br>
+                            <h6>Coordenadora do Programa de Pós-graduação em Ciências Ambientais da Universidade Federal de Goiás</h6>
+                        </div>
+                        <button type="button" class="btn-close" data-dismiss="modal" aria-label="Close">
+                        </button>
+                    </div>
+                    <div class="modal-body">
+                        
+                            
+                                <p>Biografia de Daniela de Melo e Silva, com "aspas" e link https://exemplo.com/x.
+
+Segundo parágrafo da biografia.</p>
+                            
+                            
+                                <p>danielamelosilva@ufg.br</p>
+                            
+                            
+                                <p><a href="http://lattes.cnpq.br/123">http://lattes.cnpq.br/123</a></p>
+                        
+                    </div>
+                    <div class="modal-footer">
+                        <button type="button" class="main-button mx-auto" data-dismiss="modal">Fechar
+                        </button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    
+        <div class="col-12 col-lg-3 gy-3 palestrante-item" id="Palestrante4" style="display: block;">
+            <a data-target="#modal4" data-toggle="modal" id="MainNavHelp" href="#modal4">
+                <div class="card">
+                    <div style="width: 100%; height: 75px;"></div>
+                    <div class="card-body text-center">
+                        <img src="/media/static/palestrantes/Dona_Fiota.png" alt="Palestrante" class="img-fluid">
+                        <p class="card-text" style="color: black;"> Dona Fiota</p>
+                    </div>
+                </div>
+            </a>
+        </div>
+
+        <div class="modal fade" id="modal4">
+            <div class="modal-dialog modal-lg modal-dialog-centered" role="document">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <div claas="modal-title">
+                            <h4>Dona Fiota</h4>
+                            <br>
+                            <h6>Cientista dos saberes tradicionais</h6>
+                        </div>
+                        <button type="button" class="btn-close" data-dismiss="modal" aria-label="Close">
+                        </button>
+                    </div>
+                    <div class="modal-body">
+                        
+                            
+                                <p>Biografia de Dona Fiota, com "aspas" e link https://exemplo.com/x.
+
+Segundo parágrafo da biografia.</p>
+                            
+                            
+                                <p>francielle.rego@ifgoiano.edu.br</p>
+                            
+                        
+                    </div>
+                    <div class="modal-footer">
+                        <button type="button" class="main-button mx-auto" data-dismiss="modal">Fechar
+                        </button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    
+        <div class="col-12 col-lg-3 gy-3 palestrante-item" id="Palestrante5" style="display: block;">
+            <a data-target="#modal5" data-toggle="modal" id="MainNavHelp" href="#modal5">
+                <div class="card">
+                    <div style="width: 100%; height: 75px;"></div>
+                    <div class="card-body text-center">
+                        <img src="/media/static/palestrantes/Flavia_Funape.png" alt="Palestrante" class="img-fluid">
+                        <p class="card-text" style="color: black;">Dra. Flávia Oliveira</p>
+                    </div>
+                </div>
+            </a>
+        </div>
+
+        <div class="modal fade" id="modal5">
+            <div class="modal-dialog modal-lg modal-dialog-centered" role="document">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <div claas="modal-title">
+                            <h4>Flávia Aparecida de Oliveira</h4>
+                            <br>
+                            <h6>Professora da UFG, atuando como Diretora Executiva da Fundação de Apoio à Pesquisa (FUNAPE/UFG)</h6>
+                        </div>
+                        <button type="button" class="btn-close" data-dismiss="modal" aria-label="Close">
+                        </button>
+                    </div>
+                    <div class="modal-body">
+                        
+                            
+                                <p>Biografia de Flávia Aparecida de Oliveira, com "aspas" e link https://exemplo.com/x.
+
+Segundo parágrafo da biografia.</p>
+                            
+                            
+                                <p>flavia@funape.org.br</p>
+                            
+                            
+                                <p><a href="http://lattes.cnpq.br/123">http://lattes.cnpq.br/123</a></p>
+                        
+                    </div>
+                    <div class="modal-footer">
+                        <button type="button" class="main-button mx-auto" data-dismiss="modal">Fechar
+                        </button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    
+        <div class="col-12 col-lg-3 gy-3 palestrante-item" id="Palestrante6" style="display: block;">
+            <a data-target="#modal6" data-toggle="modal" id="MainNavHelp" href="#modal6">
+                <div class="card">
+                    <div style="width: 100%; height: 75px;"></div>
+                    <div class="card-body text-center">
+                        <img src="/media/static/palestrantes/Maria_Otavia.png" alt="Palestrante" class="img-fluid">
+                        <p class="card-text" style="color: black;">Ma. Maria Loureiro</p>
+                    </div>
+                </div>
+            </a>
+        </div>
+
+        <div class="modal fade" id="modal6">
+            <div class="modal-dialog modal-lg modal-dialog-centered" role="document">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <div claas="modal-title">
+                            <h4>Maria Otavia Battaglin Loureiro</h4>
+                            <br>
+                            <h6>Professora efetiva do Instituto Federal Goiano- Campus Campos Belos (GO)</h6>
+                        </div>
+                        <button type="button" class="btn-close" data-dismiss="modal" aria-label="Close">
+                        </button>
+                    </div>
+                    <div class="modal-body">
+                        
+                            
+                                <p>Biografia de Maria Otavia Battaglin Loureiro, com "aspas" e link https://exemplo.com/x.
+
+Segundo parágrafo da biografia.</p>
+                            
+                            
+                                <p>maria.loureiro@ifgoiano.edu.br</p>
+                            
+                            
+                                <p><a href="http://lattes.cnpq.br/123">http://lattes.cnpq.br/123</a></p>
+                        
+                    </div>
+                    <div class="modal-footer">
+                        <button type="button" class="main-button mx-auto" data-dismiss="modal">Fechar
+                        </button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    
+        <div class="col-12 col-lg-3 gy-3 palestrante-item" id="Palestrante7" style="display: block;">
+            <a data-target="#modal7" data-toggle="modal" id="MainNavHelp" href="#modal7">
+                <div class="card">
+                    <div style="width: 100%; height: 75px;"></div>
+                    <div class="card-body text-center">
+                        <img src="/media/static/palestrantes/Foto_Marta_Monteiro.png" alt="Palestrante" class="img-fluid">
+                        <p class="card-text" style="color: black;">Dra. Marta Santos</p>
+                    </div>
+                </div>
+            </a>
+        </div>
+
+        <div class="modal fade" id="modal7">
+            <div class="modal-dialog modal-lg modal-dialog-centered" role="document">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <div claas="modal-title">
+                            <h4>Marta Sofia Soares Craveiro Alves Monteiro dos Santos</h4>
+                            <br>
+                            <h6>Pesquisadora Estrangeira da Universidade de Aveiro, Portugal.</h6>
+                        </div>
+                        <button type="button" class="btn-close" data-dismiss="modal" aria-label="Close">
+                        </button>
+                    </div>
+                    <div class="modal-body">
+                        
+                            
+                                <p>Biografia de Marta Sofia Soares Craveiro Alves Monteiro dos Santos, com "aspas" e link https://exemplo.com/x.
+
+Segundo parágrafo da biografia.</p>
+                            
+                            
+                                <p>mmonteiro@ua.pt</p>
+                            
+                            
+                                <p><a href="http://lattes.cnpq.br/123">http://lattes.cnpq.br/123</a></p>
+                        
+                    </div>
+                    <div class="modal-footer">
+                        <button type="button" class="main-button mx-auto" data-dismiss="modal">Fechar
+                        </button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    
+        <div class="col-12 col-lg-3 gy-3 palestrante-item" id="Palestrante8" style="display: block;">
+            <a data-target="#modal8" data-toggle="modal" id="MainNavHelp" href="#modal8">
+                <div class="card">
+                    <div style="width: 100%; height: 75px;"></div>
+                    <div class="card-body text-center">
+                        <img src="/media/static/palestrantes/Paula_Karini.png" alt="Palestrante" class="img-fluid">
+                        <p class="card-text" style="color: black;">Dra. Paula Amorim</p>
+                    </div>
+                </div>
+            </a>
+        </div>
+
+        <div class="modal fade" id="modal8">
+            <div class="modal-dialog modal-lg modal-dialog-centered" role="document">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <div claas="modal-title">
+                            <h4>Paula Karini Dias Ferreira Amorim</h4>
+                            <br>
+                            <h6>Magnífica Reitora do Instituto Federal do Tocantins</h6>
+                        </div>
+                        <button type="button" class="btn-close" data-dismiss="modal" aria-label="Close">
+                        </button>
+                    </div>
+                    <div class="modal-body">
+                        
+                            
+                                <p>Biografia de Paula Karini Dias Ferreira Amorim, com "aspas" e link https://exemplo.com/x.
+
+Segundo parágrafo da biografia.</p>
+                            
+                            
+                                <p>paulakarini@ifto.edu.br</p>
+                            
+                            
+                                <p><a href="http://lattes.cnpq.br/123">http://lattes.cnpq.br/123</a></p>
+                        
+                    </div>
+                    <div class="modal-footer">
+                        <button type="button" class="main-button mx-auto" data-dismiss="modal">Fechar
+                        </button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    
+        <div class="col-12 col-lg-3 gy-3 palestrante-item" id="Palestrante9" style="display: block;">
+            <a data-target="#modal9" data-toggle="modal" id="MainNavHelp" href="#modal9">
+                <div class="card">
+                    <div style="width: 100%; height: 75px;"></div>
+                    <div class="card-body text-center">
+                        <img src="/media/static/palestrantes/Suzana_Maria.png" alt="Palestrante" class="img-fluid">
+                        <p class="card-text" style="color: black;">Dra. Suzana Marcionilio</p>
+                    </div>
+                </div>
+            </a>
+        </div>
+
+        <div class="modal fade" id="modal9">
+            <div class="modal-dialog modal-lg modal-dialog-centered" role="document">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <div claas="modal-title">
+                            <h4>Suzana Maria Loures de Oliveira Marcionilio</h4>
+                            <br>
+                            <h6>Professora, Pesquisadora, Diretora de Pós-graduação, Pesquisa e Inovação do IF Goiano - Campus Rio Verde e Bolsista produtividade em Desenvolvimento Tecnológico e Extensão Inovadora DT 2 CNPq.</h6>
+                        </div>
+                        <button type="button" class="btn-close" data-dismiss="modal" aria-label="Close">
+                        </button>
+                    </div>
+                    <div class="modal-body">
+                        
+                            
+                                <p>Biografia de Suzana Maria Loures de Oliveira Marcionilio, com "aspas" e link https://exemplo.com/x.
+
+Segundo parágrafo da biografia.</p>
+                            
+                            
+                                <p>suzana.loures@ifgoiano.edu.br</p>
+                            
+                            
+                                <p><a href="http://lattes.cnpq.br/123">http://lattes.cnpq.br/123</a></p>
+                        
+                    </div>
+                    <div class="modal-footer">
+                        <button type="button" class="main-button mx-auto" data-dismiss="modal">Fechar
+                        </button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    
+</div>
